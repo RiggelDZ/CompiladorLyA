@@ -1,0 +1,7 @@
+[debug] [watch] [pruebas / Compile / run] Found inputs: C:\Users\Riggel\Documents\Programación\Scala\pruebas\*.{java,scala},C:\Users\Riggel\Documents\Programación\Scala\pruebas\src\main\java\**\*.{java,scala},C:\Users\Riggel\Documents\Programación\Scala\pruebas\src\main\resources\**\*,C:\Users\Riggel\Documents\Programación\Scala\pruebas\src\main\scala\**\*.{java,scala},C:\Users\Riggel\Documents\Programación\Scala\pruebas\src\main\scala-2.13\**\*.{java,scala}
+[info] 1. Monitoring source files for pruebas/run...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] [watch] [debug] Received input event: Trigger.
+[debug] [watch] [debug] Received input event: Trigger.
+[info] 2. Monitoring source files for pruebas/run...
+[info]    Press <enter> to interrupt or '?' for more options.
